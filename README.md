@@ -1,12 +1,12 @@
 <p>
-  <a href="https://github.com/username">
+  <a href="https://github.com/skybq">
     <img
       align="left"
       height="170px"
       src="https://github-readme-stats-skybq.vercel.app/api?username=skybq&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
     />
   </a>
-  <a href="https://github.com/username">
+  <a href="https://github.com/skybq">
     <img
       align="left"
       height="170px"
